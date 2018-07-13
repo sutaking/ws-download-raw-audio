@@ -1,0 +1,13 @@
+node_modules
+build/
+yarn-error.log
+*.tgz
+.DS_Store
+*.log
+*.wav
+
+# VS
+.vs
+bin
+obj
+UpgradeLog.htm
